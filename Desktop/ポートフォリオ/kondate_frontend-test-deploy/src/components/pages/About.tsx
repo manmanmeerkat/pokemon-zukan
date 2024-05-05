@@ -56,6 +56,9 @@ export const About = memo(() => {
         料理の一覧を表示する際に、検索ワードを入力して絞り込むことができます。
       </Text>
 
+
+      <Image src="/images/example_image3.png" alt="説明画像3" />
+
     </Box>
   );
 });
